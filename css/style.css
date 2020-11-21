@@ -61,6 +61,33 @@ h3{
 }
 
 
+@media screen and (max-width: 375px){
+    .container{
+        width: 380px;
+    }    
+
+    .top{
+        width: 350px;
+    }
+
+    .days2{
+        display: inline-block;
+        width: 150px;
+        text-align: center;
+        padding: 0;
+    }
+
+    ul{
+        width: 350px;
+    }
+
+    li{
+        margin-right: 20px;
+        margin-bottom: 15px;
+    }
+    
+
+}
 
 
 
